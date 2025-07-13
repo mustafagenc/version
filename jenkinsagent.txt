@@ -1,2 +1,2 @@
 version=1.0.0
-download=https://github.com/mustafagenc/jenkins-agent/setup.msi
+download=https://github.com/mustafagenc/version/raw/refs/heads/main/JenkinsAgentSetup.exe
